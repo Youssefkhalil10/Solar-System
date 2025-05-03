@@ -1093,7 +1093,7 @@ header img{
         max-width: 90%;
         text-align: center;
         margin-top: 0;
-        margin-left: 5px;
+        margin-left: 10%;
     }
     .content-6 .info-61 h1{
         max-width: 100%;
@@ -1109,10 +1109,10 @@ header img{
 
     .content-6 .info-62 , .content-6 .info-63{
         max-width: 90%;
-        margin-left: 5%;
+        margin-left: 1%;
     }
     .content-6 .card-1 , .card-2 , .content-6 .info-63 .card-4, .content-6 .info-63 .card-3{
-        max-width: 70%;
+        max-width: 90%;
         margin-top: 5px;
         margin-right: 0;
         margin-left: 10%;
@@ -1509,7 +1509,7 @@ input:focus{
 .final-1 li:not(:last-child)::after{
     content: "|";
     position: absolute;
-    right: 10px;
+    right: 7px;
 };
 
 .content-9-1 .final-2{
@@ -1573,7 +1573,7 @@ input:focus{
         text-align: center;
     }
     .content-9 .part-9-1 ul{
-        gap: 18px;
+        gap: 10px;
         margin-left: 5%;
     }
     .content-9 .part-9-1 ul li{
